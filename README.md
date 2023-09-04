@@ -1,2 +1,2 @@
-# portfolio2.0
-live site: https://sakhawat71.github.io/portfolio2.0/index.html
+# responsive-portfolio
+live site: https://sakhawat71.github.io/responsive-portfolio/index.html
